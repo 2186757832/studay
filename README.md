@@ -1,2 +1,2 @@
 # studay
-This is my learn
+这是学习的
